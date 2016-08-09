@@ -1,0 +1,10 @@
+# Dependency directory
+node_modules
+
+# npm log file
+npm-debug.log
+
+#Project specific folders to be ignored
+dist
+dist-test
+tmp
